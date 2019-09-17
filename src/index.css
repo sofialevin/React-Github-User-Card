@@ -27,12 +27,12 @@ code {
   flex-direction: column;
 }
 
-.ui.card:last-child {
+.followers > .ui.card:last-child {
   margin-bottom: auto;
 }
 
-.ui.card:first-child {
-  margin-bottom: auto;
+.followers > .ui.card:first-child {
+  margin-top: auto;
 }
 
 .followers > .ui.card {
